@@ -11,11 +11,17 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Welcome to my website!</h1>
         </header>
+        <img className="App-image" src="http://costcocouple.com/wp-content/uploads/2013/08/Kirkland-Signature-Organic-Vanilla-Soy-Milk-Costco-1.jpg"/>
         <header className="New-header">
+        
           <h1 className="Big-title">
-            Currently a computer science student attending the University of Waterloo!
+            This is so sad!! WEB DESIGN IS RETARDED.
           </h1>
         </header>
+        <header>
+          
+        </header>
+  
       </div>
     );
   }
